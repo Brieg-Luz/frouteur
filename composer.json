@@ -8,6 +8,11 @@
             "email": "briegluz@outlook.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "routeur\\": "routeur/"
+        }
+    },
     "minimum-stability": "stable",
     "require": {}
 }
