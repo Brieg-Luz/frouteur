@@ -30,7 +30,7 @@ class InstalledVersions
     'aliases' => 
     array (
     ),
-    'reference' => '53a5b25b987ae0e3bc4ad325735ddcbc20e0ebef',
+    'reference' => 'd23f04daddb4ece7f63fd5442ab99484e312f47c',
     'name' => 'philigentil/frouteur',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ class InstalledVersions
       'aliases' => 
       array (
       ),
-      'reference' => '53a5b25b987ae0e3bc4ad325735ddcbc20e0ebef',
+      'reference' => 'd23f04daddb4ece7f63fd5442ab99484e312f47c',
     ),
   ),
 );
