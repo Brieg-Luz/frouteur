@@ -2,6 +2,7 @@
     "name": "philigentil/frouteur",
     "description": "Routeur PHP en français pour avoir de belles URL !!!",
     "type": "package",
+    "license": "MIT",
     "authors": [
         {
             "name": "Philibert Gentil",
