@@ -2,7 +2,7 @@
     "name": "philigentil/frouteur",
     "description": "Routeur PHP en français pour avoir de belles URL !!!",
     "type": "package",
-    "license": "creative commons CC-BY",
+    "license": "CC-BY",
     "authors": [
         {
             "name": "Philibert Gentil",
