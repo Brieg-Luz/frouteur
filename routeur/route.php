@@ -1,7 +1,6 @@
 <?php
-namespace technique\routeur;
-
-use routeur\routerException\routeurException;
+namespace routeur;
+require '../vendor/autoload.php';
 
 class route {
     public string $name;

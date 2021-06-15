@@ -1,9 +1,7 @@
 <?php
-use technique\routeur\route;
-use technique\routeur\routerException;
-
-namespace technique\routeur;
-
+namespace routeur;
+require '../vendor/autoload.php';
+use routeur\route;
 class routeur
 {
     public $routes = [];
