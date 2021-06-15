@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'd23f04daddb4ece7f63fd5442ab99484e312f47c',
+    'reference' => 'de1a3b36b99c3f5c5c236f968518e72103fafa47',
     'name' => 'philigentil/frouteur',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'd23f04daddb4ece7f63fd5442ab99484e312f47c',
+      'reference' => 'de1a3b36b99c3f5c5c236f968518e72103fafa47',
     ),
   ),
 );
